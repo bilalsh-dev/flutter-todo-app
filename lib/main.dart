@@ -21,8 +21,8 @@ class MyApp extends StatelessWidget {
       title: 'Todo App',
       home: HomePage(),
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.yellow),
-        primarySwatch: Colors.yellow,
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.lime),
+        primarySwatch: Colors.lime,
         useMaterial3: true,
       ),
     );
